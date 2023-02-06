@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download here](http://ssnani.github.io/files/CV_1.pdf)
+[Download here](http://ssnani.github.io/files/UpdatedCV.pdf)
 
 Education
 ======
