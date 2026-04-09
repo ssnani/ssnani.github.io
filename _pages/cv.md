@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download here](http://ssnani.github.io/files/CV_1.pdf)
+[Download here](http://ssnani.github.io/files/UpdatedCV_2026.pdf)
 
 Education
 ======
@@ -27,6 +27,18 @@ Work experience
 * **Summer 2016: Internship** 
    * Qualcomm
    * Worked on log parser to facilitate debugging
+  
+* **Summer 2024: Internship** 
+   * Meta Reality Labs
+   * Worked on on-device speech enhancement and localization algorithms for smart glasses
+  
+* **Summer 2025: Internship** 
+   * Meta Reality Labs
+   * Worked on Conversion Focus feature, own voice suppression, for smart glasses 
+  
+* **Summer 2026: Internship** 
+   * Meta Reality Labs
+   * Worked on universal source separation
 
 Publications
 ======
